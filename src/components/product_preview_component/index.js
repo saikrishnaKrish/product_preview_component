@@ -7,18 +7,6 @@ import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
  
 
-
-// Preview
-
-// Gabrielle Essence Eau De Parfum
-
-
-
-// $149.99
-// $169.99
-
-// Add to Cart
-
 const ProductComponent = () => {
   // console.log(productImg)
   return (
